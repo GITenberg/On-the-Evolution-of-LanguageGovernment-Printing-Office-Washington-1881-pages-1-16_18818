@@ -1,0 +1,36 @@
+_repo: On-the-Evolution-of-LanguageGovernment-Printing-Office-Washington-1881-pages-1-16_18818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, J. W. (John Wesley)
+    - Powell, Wes
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2006-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18818'
+  lccn: '16005470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Languages'
+- !lcsh 'Language and languages'
+- !lcc 'E011'
+- !lcc 'P'
+title: "On the Evolution of Language\r\nFirst Annual Report of the Bureau of Ethnology\
+  \ to the Secretary of the Smithsonian Institution, 1879-80, Government Printing\
+  \ Office, Washington, 1881, pages 1-16"
+url: http://www.gutenberg.org/ebooks/18818
